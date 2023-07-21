@@ -1,0 +1,18 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/bin
+/.config
+/.vs/apiTicket
+/.vscode
+/obj
+/bin/Debug/netcoreapp2.2
+/.vs/apiTicket/v17
+/.vs/apiTicket/config
+/.vs/apiTicket
+/bin/Release/netcoreapp2.2/publish
+/bin/Release/netcoreapp2.2
+/.config
+/Properties/PublishProfiles
+/Properties
